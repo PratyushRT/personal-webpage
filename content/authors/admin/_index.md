@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. I have had the pleasure to work with some great people at Ashoka University: Mahavir Jhawar, Debayan Gupta, Sumit K Pandey, at Celo: Sep Kamvar, Kobi Gurkan and at IIT Madras: Santanu Sarkar. You can take a look at my CV here.
+I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. I have had the pleasure to work with some great people at Ashoka University: Mahavir Jhawar, Debayan Gupta, Sumit K Pandey, at Celo: Sep Kamvar, Kobi Gurkan and at IIT Madras: Santanu Sarkar.
