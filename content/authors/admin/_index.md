@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. I have had the pleasure to work with some great people at Ashoka University: Mahavir Jhawar, Debayan Gupta, Sumit K Pandey, at Celo: Sep Kamvar, Kobi Gurkan and at IIT Madras: Santanu Sarkar. You can take a look at my CV here.
