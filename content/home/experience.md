@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = "ashoka.edu.in"
   location = "India"
   date_start = "2019-08-01"
-  date_end = "2020-05=15"
+  date_end = "2020-05-15"
   description = """
   Spring 2020: Computer Security & Privacy
   Fall 2019: A New Geography in the Information Age
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-25"
   date_end = "2019-08-25"
   description = """
-  Worked on Celo’s Ultralight Client Sync which enables users to download very small number of block
+  Worked on Celo's Ultralight Client Sync which enables users to download very small number of block
 headers to verify correctness of current validator set. On the implementation team for Pedersen Hashes, different elliptic curves and bls-zexe in Rust and Sage similar to the ZCash Protocol
 """
 
