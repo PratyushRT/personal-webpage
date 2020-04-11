@@ -27,14 +27,38 @@ date_format = "Jan 2006"
   description = """
   Quantum cryptography, verifiable computation
   """
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "Ashoka University"
+  company_url = "ashoka.edu.in"
+  location = "India"
+  date_start = "2019-08-01"
+  date_end = "2020-05=15"
+  description = """
+  Spring 2020: Computer Security & Privacy
+  Fall 2019: A New Geography in the Information Age
+  """
 
 [[experience]]
-  title = "Bachelor's degree"
-  company = "Ashoka University"
-  company_url = ""
+  title = "Cryptography Engineering Intern"
+  company = "Celo"
+  company_url = "celo.org"
+  location = "Germany"
+  date_start = "2019-05-25"
+  date_end = "2019-08-25"
+  description = """Worked on Celo’s Ultralight Client Sync which enables users to download very small number of block
+headers to verify correctness of current validator set. On the implementation team for Pedersen Hashes, different elliptic curves and bls-zexe in Rust and Sage similar to the ZCash Protocol"""
+
+[[experience]]
+  title = "Summer Research Intern"
+  company = "IIT Madras "
+  company_url = "iitm.ac.in"
   location = "India"
-  date_start = "2016-09-01"
-  date_end = "2020-05-15"
-  description = """Mathematics and Computer Science"""
+  date_start = "2018-07-25"
+  date_end = "2019-06-1"
+  description = """Cryptanalysis of Stream Ciphers like Grain 128 and Trivium under Prof.
+Santanu Sarkar. Worked alongside PhD students to implement 855-round key
+recovery attack on Trivium. Implementations in C and Sage."""
 
 +++
