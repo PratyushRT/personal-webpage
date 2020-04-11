@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "USA"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2025"
   description = """
   Quantum cryptography, verifiable computation
   """
@@ -47,8 +47,10 @@ date_format = "Jan 2006"
   location = "Germany"
   date_start = "2019-05-25"
   date_end = "2019-08-25"
-  description = """Worked on Celo’s Ultralight Client Sync which enables users to download very small number of block
-headers to verify correctness of current validator set. On the implementation team for Pedersen Hashes, different elliptic curves and bls-zexe in Rust and Sage similar to the ZCash Protocol"""
+  description = """
+  Worked on Celo’s Ultralight Client Sync which enables users to download very small number of block
+headers to verify correctness of current validator set. On the implementation team for Pedersen Hashes, different elliptic curves and bls-zexe in Rust and Sage similar to the ZCash Protocol
+"""
 
 [[experience]]
   title = "Summer Research Intern"
@@ -57,8 +59,10 @@ headers to verify correctness of current validator set. On the implementation te
   location = "India"
   date_start = "2018-07-25"
   date_end = "2019-06-1"
-  description = """Cryptanalysis of Stream Ciphers like Grain 128 and Trivium under Prof.
+  description = """
+  Cryptanalysis of Stream Ciphers like Grain 128 and Trivium under Prof.
 Santanu Sarkar. Worked alongside PhD students to implement 855-round key
-recovery attack on Trivium. Implementations in C and Sage."""
+recovery attack on Trivium. Implementations in C and Sage.
+"""
 
 +++
