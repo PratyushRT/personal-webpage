@@ -58,7 +58,7 @@ headers to verify correctness of current validator set. On the implementation te
   company_url = "iitm.ac.in"
   location = "India"
   date_start = "2018-07-25"
-  date_end = "2019-06-1"
+  date_end = "2019-06-01"
   description = """
   Cryptanalysis of Stream Ciphers like Grain 128 and Trivium under Prof.
 Santanu Sarkar. Worked alongside PhD students to implement 855-round key
