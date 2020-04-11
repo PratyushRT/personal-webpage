@@ -24,6 +24,6 @@ date_format = "Jan 2006"
   title = "Engineering Fellow: Privacy Preserving Eigenvalue Computation"
   date_start = "2018-11-01"
   date_end = "2019-02-01"
-  description = "Celo’s algorithmically volume regulated stablecoin protocol requires each user to calculate their own   Eigentrust score. Developing an efficient Zero Knowledge protocol to enable this. Youngest fellow among all the Celo fellows. Usually fellows are advanced Graduate students. Received a 10,000 $ grant."
+  description = "Celo’s algorithmically volume regulated stablecoin protocol requires each user to calculate their own   Eigentrust score. Developing an efficient Zero Knowledge protocol to enable this. Youngest fellow among all the Celo fellows. Usually fellows are advanced Graduate students. Received a $10,000 grant."
 
 +++
