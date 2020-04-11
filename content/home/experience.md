@@ -23,7 +23,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "USA"
   date_start = "2020-09-01"
-  date_end = "2025"
   description = """
   Quantum cryptography, verifiable computation
   """
