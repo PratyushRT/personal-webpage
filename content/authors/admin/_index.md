@@ -22,8 +22,9 @@ bio: Training to be a better cryptographer everyday.
 
 interests:
 - Verifiable Computation
-- Quantum Cryptography
+- Post-Quantum Cryptography
 - Privacy-preserving techniques
+- Quantum Cryptography
 
 education:
   courses:
