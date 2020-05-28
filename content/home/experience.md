@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
- My advisors are Abhishek Jain and Matt Green. Work on Verifiable computation, Post-Quantum cryptography.
+ My advisors are [Abhishek Jain]{{< ref "https://www.cs.jhu.edu/~abhishek/" >}} and Matt Green. Work on Verifiable computation, Post-Quantum cryptography.
   """
   
   [[experience]]
