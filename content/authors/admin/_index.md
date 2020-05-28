@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Ashoka University
-  url: "https://ashoka.edu.in"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Training to be a better cryptographer everyday.
@@ -29,6 +29,9 @@ interests:
 education:
   courses:
   
+  - course: PhD in Computer Science
+    institution: Johns Hopkins University
+    year: 2025 
   - course: Ashoka Scholar's Program (1 year Postgrad by research)
     institution: Ashoka University
     year: 2020
@@ -69,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. I have had the pleasure to work with some great people at Ashoka University: Mahavir Jhawar, Debayan Gupta, Sumit K Pandey, at Celo: Sep Kamvar, Kobi Gurkan and at IIT Madras: Santanu Sarkar.
+I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements.
