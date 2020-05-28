@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Ashoka University
-  url: "ashoka.edu.in"
+  link: "ashoka.edu.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Training to be a better cryptographer everyday.
