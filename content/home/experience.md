@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
- My advisors are [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and Matt Green. Work on Verifiable computation, Post-Quantum cryptography.
+ My advisors are [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). Work on Verifiable computation, Post-Quantum cryptography.
   """
   
   [[experience]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2019-08-01"
   date_end = "2020-05-15"
-  description = """
+  description = """ TA for Prof. [Debayan Gupta](https://debayangupta.com)
   Spring 2020: Computer Security & Privacy
   Fall 2019: A New Geography in the Information Age
   """
@@ -61,7 +61,7 @@ headers to verify correctness of current validator set. On the implementation te
   date_end = "2019-06-01"
   description = """
   Cryptanalysis of Stream Ciphers like Grain 128 and Trivium under Prof.
-Santanu Sarkar. Worked alongside PhD students to implement 855-round key
+[Santanu Sarkar](https://sites.google.com/site/santanusarkarwb/home). Worked alongside PhD students to implement 855-round key
 recovery attack on Trivium. Implementations in C and Sage.
 """
 
