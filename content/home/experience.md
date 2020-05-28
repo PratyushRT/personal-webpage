@@ -35,9 +35,8 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2019-08-01"
   date_end = "2020-05-15"
-  description = """ TA for Prof. [Debayan Gupta](https://debayangupta.com)
-  Spring 2020: Computer Security & Privacy
-  Fall 2019: A New Geography in the Information Age
+  description = """ TA for Prof. [Debayan Gupta](https://debayangupta.com):
+  (1) Spring 2020: Computer Security & Privacy (2) Fall 2019: A New Geography in the Information Age
   """
 
 [[experience]]
