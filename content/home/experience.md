@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-08-01"
   description = """
- Working on privacy-preserving techniques under [Prof. Christina Poepper](http://www.poepper.net) at the Cyber Security & Privacy Lab (CSP-lab).
+ Working on privacy-preserving techniques under [Prof. Christina Pöpper](http://www.poepper.net) at the Cyber Security & Privacy Lab (CSP-lab).
   """
   
   [[experience]]
