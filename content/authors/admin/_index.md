@@ -72,5 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. 
-Recent News: This summer I am (virtually) visiting the Cyber Security & Privacy Lab (CSP-lab) at [NYUAD](https://nyuad.nyu.edu) working with [Christina Pöpper](http://www.poepper.net)'s group.
+I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. This summer I am (virtually) visiting the Cyber Security & Privacy Lab (CSP-lab) at [NYUAD](https://nyuad.nyu.edu) working with [Christina Pöpper](http://www.poepper.net)'s group. After this I'll be starting my PhD at [Johns Hopkins University](https://www.jhu.edu/) under [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/).
