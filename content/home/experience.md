@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   description = """
  My advisors are [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). Work on Verifiable computation, Post-Quantum cryptography.
   """
+  [[experience]]
+  title = "Research Assistant"
+  company = "New York University, Abu Dhabi"
+  company_url = "https://nyuad.nyu.edu"
+  location = "Virtual"
+  date_start = "2020-06-01"
+  date_end = "2020-08-01"
+  description = """
+ Working on privacy-preserving techniques under [Prof. Christina Poepper](http://www.poepper.net) at the Cyber Security & Privacy Lab (CSP-lab).
+  """
   
   [[experience]]
   title = "Teaching Assistant"
