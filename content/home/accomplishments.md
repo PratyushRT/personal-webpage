@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "CS dept.Ashoka University"
+  organization = "Computer Science department, Ashoka University"
   organization_url = "https://www.ashoka.edu.in/computerscience"
   title = "Undergraduate Research Excellence Award"
   date_start = "2020-07-13"
