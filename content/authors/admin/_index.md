@@ -22,9 +22,8 @@ bio: Training to be a better cryptographer everyday.
 
 interests:
 - Verifiable Computation
-- Post-Quantum Cryptography
+- Cryptography in a Quantum world
 - Privacy-preserving techniques
-- Quantum Cryptography
 
 education:
   courses:
@@ -72,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am training to be a better cryptographer everyday. My areas of interests within cryptography are verifiable computation, quantum cryptography, privacy-preserving techniques and fundamentals of cryptography. I am particularly interested in designing protocols with minimal trust requirements. This summer I am (virtually) visiting the Cyber Security & Privacy Lab (CSP-lab) at [NYUAD](https://nyuad.nyu.edu) working with [Christina Pöpper](http://www.poepper.net)'s group. After this I'll be starting my PhD at [Johns Hopkins University](https://www.jhu.edu/) under [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/).
+I am a first year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). I am in general interested in cryptography and its applications, more specifically, verifiable computation, cryptography in the presence of quantum computers and privacy-preserving techniques. I am particularly interested in designing protocols with minimal trust requirements.
