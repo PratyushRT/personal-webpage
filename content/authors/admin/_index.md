@@ -21,9 +21,9 @@ organizations:
 bio: Training to be a better cryptographer everyday.
 
 interests:
-- Verifiable Computation
+- Privacy-preserving computation
 - Cryptography in a Quantum world
-- Privacy-preserving techniques
+- ML Security & Privacy
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). I am in general interested in cryptography and its applications, more specifically, verifiable computation, cryptography in the presence of quantum computers and privacy-preserving techniques. I am particularly interested in designing protocols with minimal trust requirements.
+I am a first year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). I am in general interested in cryptography and its applications, more specifically, most of my research interests are at the intersection of cryptography with privacy, ML and quantum computation. I am particularly interested in designing protocols with minimal trust requirements.
