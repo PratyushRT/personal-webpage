@@ -23,14 +23,14 @@ bio: Training to be a better cryptographer everyday.
 interests:
 - Privacy-preserving computation
 - Cryptography in a Quantum world
-- ML Security & Privacy
+- Verifiable computation
 
 education:
   courses:
   
   - course: PhD in Computer Science
     institution: Johns Hopkins University
-    year: 2025 
+    year: 2025 (expected)
   - course: Ashoka Scholar's Program (1 year Postgrad by research)
     institution: Ashoka University
     year: 2020
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). I am in general interested in cryptography and its applications, more specifically, most of my research interests are at the intersection of cryptography with privacy, ML and quantum computation. I am particularly interested in designing protocols with minimal trust requirements.
+I am a first year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/) and [Matt Green](https://isi.jhu.edu/~mgreen/). I am in general interested in cryptography and its applications, more specifically, most of my research interests are at the intersection of cryptography with privacy, quantum computation and verifiable computation. I am particularly interested in designing protocols with minimal trust requirements. This summer I am also collaborating with the Ethereum Research team to build, attack and study practical [verifiable delay functions (VDFs)](https://vdfresearch.org/).
