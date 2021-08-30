@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "VDF research"
+  company = "Ethereum"
+  company_url = "https://www.ethereum.org"
+  location = ""
+  date_start = "2021-05-01"
+  date_end = ""
+  description = """
+  Collaborating with the Ethereum Research team to build, attack and study practical verifiable delay functions (VDFs).
+  """
   title = "PhD student"
   company = "Johns Hopkins University"
   company_url = "https://www.jhu.edu"
