@@ -1,8 +1,9 @@
 ---
-title: "SoK: A Billion Souls: A Security & Privacy Review of India’s “Aadhaar” Biometric ID"
-date: "2019-11-11T12:08:02+05:30"
-publication_types: ["3"]
-publication: Manuscript in preparation
-abstract: "India’s Aadhaar is the largest biometric identity system in history. The Unique Identification Authority of India (UIDAI) is responsible for providing each Indian resident with a distinct identity—a 12-digit Aadhaar number— using their biometric and demographic details. Aadhaar is designed to assist in the efficient, transparent, and targeted delivery of subsidies, benefits, and services to India’s 1.36 billion residents. However, with increasing global awareness on data security and privacy, public trust in Aadhaar is crucial to its efficacy. With this in mind, we aim to highlight and catalogue the existing technical and structural vulnerabilities in the Aadhaar infrastructure and provide mitigation strategies for the same. We do so by drawing the first detailed snapshot of Aadhaar’s technical, structural, and policy infrastructure. We examine the legitimacy of alleged security breaches reported by Indian media outlets based on the standard benchmark for information security—– the Confidentiality, Integrity, and Availability (CIA) triad. Moreover, we categorise the feasibility of these breaches based on the threat actor involved, cost of carrying out the breach (time and resources) and the level of security provided by the Aadhaar infrastructure. Finally, we also consider threat actors and privacy breaches to complete our analysis."
+title: "India’s “Aadhaar” Biometric ID: Structure,
+Security, and Vulnerabilities"
+date: "2021-12-13T12:08:02+05:30"
+publication_types: ["1"]
+publication: in FC 2022
+abstract: "India's Aadhaar is the largest biometric identity system in history, designed to help deliver subsidies, benefits, and services to India's 1.4 billion residents. The Unique Identification Authority of India (UIDAI) is responsible for providing each resident (not each citizen) with a distinct identity---a 12-digit Aadhaar number---using their biometric and demographic details. We provide the first comprehensive description of the Aadhaar infrastructure, collating information across thousands of pages of public documents and releases, as well as direct discussions with Aadhaar developers. Critically, we describe the first known cryptographic issue within the system, and discuss how a workaround prevents it from being exploitable at scale. Further, we categorize and rate various security and privacy limitations and the corresponding threat actors, examine the legitimacy of alleged security breaches, and discuss improvements and mitigation strategies."
 ---
 
