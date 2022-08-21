@@ -22,7 +22,7 @@ bio: Training to be a better cryptographer everyday.
 
 interests:
 - Privacy-preserving computation
-- Cryptography in a Quantum world
+- Zero-knowledge proof applications 
 - Verifiable computation
 
 education:
