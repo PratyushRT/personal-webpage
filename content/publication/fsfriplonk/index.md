@@ -1,4 +1,3 @@
-
 ---
 title: "Fiat-Shamir Security of FRI and Related SNARKs"
 date: "2023-07-11T12:08:02"
