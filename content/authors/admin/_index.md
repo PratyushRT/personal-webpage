@@ -21,8 +21,8 @@ organizations:
 bio: Training to be a better cryptographer everyday.
 
 interests:
-- Privacy-preserving computation
-- Zero-knowledge proof applications 
+- Privacy & Anonymity
+- Zero-knowledge proofs 
 - Verifiable computation
 
 education:
@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third year PhD student at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). I am in general interested in cryptography and its applications, more specifically, most of my research interests are at the intersection of cryptography with privacy, and verifiable computation. I am particularly interested in designing protocols with minimal trust requirements. Over the last two summers, I have collaborated with the Ethereum Research team to build, attack and study practical [verifiable delay functions (VDFs)](https://vdfresearch.org/) and with the [PSE](https://appliedzkp.org/) team as a grantee where I fell down the zero-knowledge proofs rabbithole, working on [verifiable machine learning](https://bit.ly/ZKforML).  
+I am a PhD candidate at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). I am in general interested in cryptography and its applications, more specifically, most of my research interests are at the intersection of cryptography with privacy, and verifiable computation. Over the last two summers, I have collaborated with the Ethereum Research team to build, attack and study practical [verifiable delay functions (VDFs)](https://vdfresearch.org/) and with the [PSE](https://appliedzkp.org/) team as a grantee where I fell down the zero-knowledge proofs rabbithole, working on [verifiable machine learning](https://bit.ly/ZKforML). 
+
+A key focus of my research currently and in the foreseeable future is the security and construction of efficient SNARKs and proof systems, particularly those involving error-correcting codes. Thanks to the Ethereum Foundation for funding the next year of my PhD to support this work via a generous [academic grant](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)!
