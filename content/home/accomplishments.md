@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Ethereum Foundation"
+  organization_url = "[https://www.ethereum.org](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)"
+  title = "Academic Round Grantee: Error Correcting Codes for Efficient SNARK Provers"
+  date_start = "2023-08-01"
+  date_end = "2024-08-01"
+  description = "To establish a collaborative effort among cryptography experts, aiming to enhance parameter efficiencies and provide certainty in analysis. This could lead to a working group within the ZKProof standards initiative and explore the feasibility of utilizing the FRI polynomial commitment scheme in future zkEVM implementation on layer 1. Covers an entire year of PhD funding."
+
+[[item]]
   organization = "Computer Science department, Ashoka University"
   organization_url = "https://www.ashoka.edu.in/computerscience"
   title = "Undergraduate Research Excellence Award"
