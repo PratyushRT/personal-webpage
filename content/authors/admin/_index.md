@@ -23,7 +23,7 @@ bio: Training to be a better cryptographer everyday.
 interests:
 - Privacy & Anonymity
 - Zero-knowledge proofs 
-- Verifiable computation
+- ML/AI Safety 
 
 education:
   courses:
