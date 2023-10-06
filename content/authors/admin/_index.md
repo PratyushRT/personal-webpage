@@ -30,7 +30,7 @@ education:
   
   - course: PhD in Computer Science
     institution: Johns Hopkins University
-    year: 2025 (expected)
+    year: 2024 (expected)
   - course: Ashoka Scholar's Program (1 year Postgrad by research)
     institution: Ashoka University
     year: 2020
