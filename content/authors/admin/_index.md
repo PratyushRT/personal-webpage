@@ -30,7 +30,7 @@ education:
   
   - course: PhD in Computer Science
     institution: Johns Hopkins University
-    year: 2024 (expected)
+    year: 2024
   - course: Ashoka Scholar's Program (1 year Postgrad by research)
     institution: Ashoka University
     year: 2020
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). I am generally interested in cryptography and its applications. More specifically, most of my research interests are at the intersection of cryptography with privacy, verifiable computation, and machine learning. One of the key focuses of my research recently has been the security and construction of efficient SNARKs and proof systems, particularly those involving error-correcting codes. Thanks to the Ethereum Foundation for funding the next year of my PhD research via a generous [academic grant](https://blog.ethereum.org/2023/06/28/academic-grants-round-23)!
+I completed my PhD at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). I am generally interested in cryptography and its applications. More specifically, most of my research interests are at the intersection of cryptography with privacy, verifiable computation, and machine learning. One of the key focuses of my dissertation work was the security and construction of efficient SNARKs and proof systems, particularly those involving error-correcting codes. I was a recipient of the Ethereum Foundation's [academic grant](https://blog.ethereum.org/2023/06/28/academic-grants-round-23) that funded our work on SNARK security.
