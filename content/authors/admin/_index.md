@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Training to be a better cryptographer everyday.
+bio: Now building eternis.ai
 
 interests:
 - Privacy & Anonymity
@@ -31,12 +31,6 @@ education:
   - course: PhD in Computer Science
     institution: Johns Hopkins University
     year: 2024
-  - course: Ashoka Scholar's Program (1 year Postgrad by research)
-    institution: Ashoka University
-    year: 2020
-  - course: BSc in Mathematics & Computer Science
-    institution: Ashoka University
-    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I completed my PhD at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). I am generally interested in cryptography and its applications. More specifically, most of my research interests are at the intersection of cryptography with privacy, verifiable computation, and machine learning. One of the key focuses of my dissertation work was the security and construction of efficient SNARKs and proof systems, particularly those involving error-correcting codes. I was a recipient of the Ethereum Foundation's [academic grant](https://blog.ethereum.org/2023/06/28/academic-grants-round-23) that funded our work on SNARK security.
+I completed my PhD at [Johns Hopkins University](https://www.jhu.edu/) under the wonderful supervision of both [Matthew Green](https://isi.jhu.edu/~mgreen/) and [Abhishek Jain](https://www.cs.jhu.edu/~abhishek/). One of the key focuses of my dissertation work was the security and construction of efficient SNARKs and proof systems, particularly those involving error-correcting codes. I was a recipient of an EF [academic grant](https://blog.ethereum.org/2023/06/28/academic-grants-round-23) that funded our work on SNARK security.
+
+I co-founded [Eternis](https://www.eternis.ai/) where we're building privacy-preserving personal AI and more. Due to this, my recent research focus has shifted to understanding and improving LLMs, particularly using reinforcement learning and other LLM post-training techniques. First in this line of work is [this](https://arxiv.org/abs/2508.14094) paper on annotation-efficient GRPO post-training.
