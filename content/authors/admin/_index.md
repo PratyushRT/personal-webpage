@@ -22,8 +22,8 @@ bio: Now building eternis.ai
 
 interests:
 - Privacy & Anonymity
-- Zero-knowledge proofs 
-- ML/AI Safety 
+- Cryptography
+- Reinforcement Learning 
 
 education:
   courses:
